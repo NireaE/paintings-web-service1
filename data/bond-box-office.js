@@ -1,320 +1,85 @@
 {
-	"title": "Bond Films by Box Office Totals",
-	
-	"films":[
-             {
-				"Film":23,
-				"Title":"Skyfall",
-				"Year":2012,
-				"Director":"Sam Mendes",
-				"Producers":"Michael G. Wilson and Barbara Broccoli",
-				"Writers":"Neal Purvis, Robert Wade and John Logan",
-				"Composer":"Thomas Newman",
-				"Bond":"Daniel Craig",
-				"Budget":"$230,000,000.00",
-				"BoxOffice":"$1,110,526,981.00",
-				"Image":"skyfall.jpg"
-			  },
-              {
-				"Film":24,
-				"Title":"Spectre",
-				"Year":2015,
-				"Director":"Sam Mendes",
-				"Producers":"Michael G. Wilson and Barbara Broccoli",
-				"Writers":"Neal Purvis, Robert Wade and John Logan",
-				"Composer":"Thomas Newman",
-				"Bond":"Daniel Craig",
-				"Budget":"$200,000,000.00",
-				"BoxOffice":"$879,620,923.00",
-				"Image":"spectre.jpg"
-			  },
-        
-              {
-				"Film":22,
-				"Title":"Quantum of Solace",
-				"Year":2008,
-				"Director":"Marc Forster",
-				"Producers":"Michael G. Wilson and Barbara Broccoli",
-				"Writers":"Neal Purvis, Robert Wade and Paul Haggis",
-				"Composer":"David Arnold",
-				"Bond":"Daniel Craig",
-				"Budget":"$102,000,000.00",
-				"BoxOffice":"$594,420,283.00",
-				"Image":"quantum-of-solace.jpg"
-			  },
-			  {
-				"Film":21,
-				"Title":"Casino Royale",
-				"Year":2006,
-				"Director":"Martin Campbell",
-				"Producers":"Michael G. Wilson and Barbara Broccoli",
-				"Writers":"Neal Purvis, Robert Wade and Paul Haggis",
-				"Composer":"David Arnold",
-				"Bond":"Daniel Craig",
-				"Budget":"$142,000,000.00",
-				"BoxOffice":"$431,942,139.00",
-				"Image":"casino-royale.jpg"
-			  },
-			  {
-				"Film":20,
-				"Title":"Die Another Day",
-				"Year":2002,
-				"Director":"Lee Tamahori",
-				"Producers":"Michael G. Wilson and Barbara Broccoli",
-				"Writers":"Neal Purvis and Robert Wade",
-				"Composer":"David Arnold",
-				"Bond":"Pierce Brosnan",
-				"Budget":"$135,000,000.00",
-				"BoxOffice":"$361,730,660.00",
-				"Image":"die-another-day.jpg"
-			  },
-			  {
-				"Film":18,
-				"Title":"Tomorrow Never Dies",
-				"Year":1997,
-				"Director":"Roger Spottiswoode",
-				"Producers":"Michael G. Wilson and Barbara Broccoli",
-				"Writers":"Bruce Feirstein",
-				"Composer":"David Arnold",
-				"Bond":"Pierce Brosnan",
-				"Budget":"$60,000,000.00",
-				"BoxOffice":"$356,429,941.00",
-				"Image":"tomorrow-never-dies.jpg"
-			  },
-			  {
-				"Film":19,
-				"Title":"The World Is Not Enough",
-				"Year":1999,
-				"Director":"Michael Apted",
-				"Producers":"Michael G. Wilson and Barbara Broccoli",
-				"Writers":"Neal Purvis, Robert Wade and Bruce Feirstein",
-				"Composer":"David Arnold",
-				"Bond":"Pierce Brosnan",
-				"Budget":"$110,000,000.00",
-				"BoxOffice":"$339,504,276.00",
-				"Image":"the-world-is-not-enough.jpg"
-			  },
-			  {
-				"Film":11,
-				"Title":"Moonraker",
-				"Year":1979,
-				"Director":"Lewis Gilbert",
-				"Producers":"Albert R. Broccoli",
-				"Writers":"Christopher Wood",
-				"Composer":"John Barry",
-				"Bond":"Roger Moore",
-				"Budget":"$31,000,000.00",
-				"BoxOffice":"$210,300,000.00",
-				"Image":"moonraker.jpg"
-			  },
-			  {
-				"Film":12,
-				"Title":"For Your Eyes Only",
-				"Year":1981,
-				"Director":"John Glen",
-				"Producers":"Albert R. Broccoli",
-				"Writers":"Michael G. Wilson and Richard Maibaum",
-				"Composer":"Bill Conti",
-				"Bond":"Roger Moore",
-				"Budget":"$28,000,000.00",
-				"BoxOffice":"$195,300,000.00",
-				"Image":"for-your-eyes-only.jpg"
-			  },
-			  {
-				"Film":16,
-				"Title":"Licence to Kill",
-				"Year":1989,
-				"Director":"John Glen",
-				"Producers":"Albert R. Broccoli & Michael G. Wilson",
-				"Writers":"Michael G. Wilson and Richard Maibaum",
-				"Composer":"Michael Kamen",
-				"Bond":"Timothy Dalton",
-				"Budget":"$40,000,000.00",
-				"BoxOffice":"$191,200,000.00",
-				"Image":"license-to-kill.jpg"
-			  },
-			  {
-				"Film":13,
-				"Title":"Octopussy",
-				"Year":1983,
-				"Director":"John Glen",
-				"Producers":"Albert R. Broccoli",
-				"Writers":"George MacDonald Fraser, Michael G. Wilson and Richard Maibaum",
-				"Composer":"John Barry",
-				"Bond":"Roger Moore",
-				"Budget":"$27,500,000.00",
-				"BoxOffice":"$187,500,000.00",
-				"Image":"octopussy.jpg"
-			  },
-			  {
-				"Film":10,
-				"Title":"The Spy Who Loved Me",
-				"Year":1977,
-				"Director":"Lewis Gilbert",
-				"Producers":"Albert R. Broccoli",
-				"Writers":"Christopher Wood and Richard Maibaum",
-				"Composer":"Marvin Hamlisch",
-				"Bond":"Roger Moore",
-				"Budget":"$14,000,000.00",
-				"BoxOffice":"$185,400,000.00",
-				"Image":"the-spy-who-loved-me.jpg"
-			  },
-			  {
-				"Film":8,
-				"Title":"Live and Let Die",
-				"Year":1973,
-				"Director":"Guy Hamilton",
-				"Producers":"Harry Saltzman & Albert R. Broccoli",
-				"Writers":"Tom Mankiewicz",
-				"Composer":"George Martin",
-				"Bond":"Roger Moore",
-				"Budget":"$7,000,000.00",
-				"BoxOffice":"$161,800,000.00",
-				"Image":"live-and-let-die.jpg"
-			  },
-			  {
-				"Film":14,
-				"Title":"A View to a Kill",
-				"Year":1985,
-				"Director":"John Glen",
-				"Producers":"Albert R. Broccoli & Michael G. Wilson",
-				"Writers":"Michael G. Wilson and Richard Maibaum",
-				"Composer":"John Barry",
-				"Bond":"Roger Moore",
-				"Budget":"$36,000,000.00",
-				"BoxOffice":"$160,000,000.00",
-				"Image":"a-view-to-a-kill.jpg"
-			  },
-			  {
-				"Film":17,
-				"Title":"GoldenEye",
-				"Year":1995,
-				"Director":"Martin Campbell",
-				"Producers":"Michael G. Wilson and Barbara Broccoli",
-				"Writers":"Michael France, Jeffrey Caine, Kevin Wade and Bruce Feirstein",
-				"Composer":"Éric Serra",
-				"Bond":"Pierce Brosnan",
-				"Budget":"$42,000,000.00",
-				"BoxOffice":"$156,167,015.00",
-				"Image":"goldeneye.jpg"
-			  },
-			  {
-				"Film":15,
-				"Title":"The Living Daylights",
-				"Year":1987,
-				"Director":"John Glen",
-				"Producers":"Albert R. Broccoli & Michael G. Wilson",
-				"Writers":"Michael G. Wilson and Richard Maibaum",
-				"Composer":"John Barry",
-				"Bond":"Timothy Dalton",
-				"Budget":"$30,000,000.00",
-				"BoxOffice":"$152,627,960.00",
-				"Image":"the-living-daylights.jpg"
-			  },
-			  {
-				"Film":4,
-				"Title":"Thunderball",
-				"Year":1965,
-				"Director":"Terence Young",
-				"Producers":"Kevin McClory",
-				"Writers":"Richard Maibaum and John Hopkins",
-				"Composer":"John Barry",
-				"Bond":"Sean Connery",
-				"Budget":"$9,000,000.00",
-				"BoxOffice":"$141,200,000.00",
-				"Image":"thunderball.jpg"
-			  },
-			  {
-				"Film":3,
-				"Title":"Goldfinger",
-				"Year":1964,
-				"Director":"Guy Hamilton",
-				"Producers":"Harry Saltzman & Albert R. Broccoli",
-				"Writers":"Richard Maibaum and Paul Dehn",
-				"Composer":"John Barry",
-				"Bond":"Sean Connery",
-				"Budget":"$3,000,000.00",
-				"BoxOffice":"$124,900,000.00",
-				"Image":"goldfinger.jpg"
-			  },
-			  {
-				"Film":7,
-				"Title":"Diamonds Are Forever",
-				"Year":1971,
-				"Director":"Guy Hamilton",
-				"Producers":"Harry Saltzman & Albert R. Broccoli",
-				"Writers":"Richard Maibaum and Tom Mankiewicz",
-				"Composer":"John Barry",
-				"Bond":"Sean Connery",
-				"Budget":"$7,200,000.00",
-				"BoxOffice":"$116,000,000.00",
-				"Image":"diamonds-are-forever.jpg"
-			  },
-			  {
-				"Film":5,
-				"Title":"You Only Live Twice",
-				"Year":1967,
-				"Director":"Lewis Gilbert",
-				"Producers":"Harry Saltzman & Albert R. Broccoli",
-				"Writers":"Roald Dahl",
-				"Composer":"John Barry",
-				"Bond":"Sean Connery",
-				"Budget":"$9,500,000.00",
-				"BoxOffice":"$111,600,000.00",
-				"Image":"you-only-live-twice.jpg"
-			  },
-			  {
-				"Film":9,
-				"Title":"The Man with the Golden Gun",
-				"Year":1974,
-				"Director":"Guy Hamilton",
-				"Producers":"Harry Saltzman & Albert R. Broccoli",
-				"Writers":"Richard Maibaum and Tom Mankiewicz",
-				"Composer":"John Barry",
-				"Bond":"Roger Moore",
-				"Budget":"$7,000,000.00",
-				"BoxOffice":"$97,600,000.00",
-				"Image":"the-man-with-the-golden-gun.jpg"
-			  },
-			  {
-				"Film":6,
-				"Title":"On Her Majesty's Secret Service",
-				"Year":1969,
-				"Director":"Peter R. Hunt",
-				"Producers":"Harry Saltzman & Albert R. Broccoli",
-				"Writers":"Richard Maibaum",
-				"Composer":"John Barry",
-				"Bond":"George Lazenby",
-				"Budget":"$8,000,000.00",
-				"BoxOffice":"$82,000,000.00",
-				"Image":"on-her-majestys-secret-service.jpg"
-			  },
-			  {
-				"Film":2,
-				"Title":"From Russia with Love",
-				"Year":1963,
-				"Director":"Terence Young",
-				"Producers":"Harry Saltzman & Albert R. Broccoli",
-				"Writers":"Richard Maibaum and Johanna Harwood",
-				"Composer":"John Barry",
-				"Bond":"Sean Connery",
-				"Budget":"$2,000,000.00",
-				"BoxOffice":"$78,900,000.00",
-				"Image":"from-russia-with-love.jpg"
-			  },
-			  {
-				"Film":1,
-				"Title":"Dr. No",
-				"Year":1962,
-				"Director":"Terence Young",
-				"Producers":"Harry Saltzman and Albert R. Broccoli",
-				"Writers":"Richard Maibaum, Johanna Harwood and Berkely Mather",
-				"Composer":"Monty Norman",
-				"Bond":"Sean Connery",
-				"Budget":"$1,000,000.00",
-				"BoxOffice":"$59,567,035.00",
-				"Image":"dr-no.jpg"
-			  }
-
-			]
+"title": "Most Expensive Paintings by Sale Price",
+  "paintings":[
+     {
+       "Title": "Salvator Mundi",
+       "Artist": " Leonardo da Vinci",
+       "Cost": "$450.5 million",
+       "Year": 2017,
+       "Note": "The painting depicts Christ in an anachronistic blue Renaissance dress, making the sign of the cross with his right hand, while holding a transparent, non-refracting crystal orb in his left.",
+       "Image": "salvator-mundi.jpg"
+     },
+     {
+       "Title": "Interchange",
+       "Artist": " Willem de Kooning",
+       "Cost": "$300 million",
+       "Year": 2015,
+       "Note": "This is an abstract expressionist oil painting on canvas by Dutch-American painter Willem de Kooning (1904–1997). de Kooning was one of the early artists of the abstract expressionism movement, the first American modern art movement.",
+       "Image": "interchange.jpg"
+     },
+     {
+       "Title": "The Card Players",
+       "Artist": " Paul Cézanne",
+       "Cost": "$250 million",
+       "Year": 2011,
+       "Note": "The Card Players is a series of oil paintings by the French Post-Impressionist artist Paul Cezanne. Painted during Cézanne final period in the early 1890s.",
+       "Image": "card-players.jpg"
+     },
+     {
+       "Title": "Nafea Faa Ipoipo",
+       "Artist": " Paul Gauguin",
+       "Cost": "$210 million",
+       "Year": 2015,
+       "Note": "Nafea Faa Ipoipo(When Will You Marry?) is an oil painting from 1892 by the French Post-Impressionist artist Paul Gauguin. On loan to the Kunstmuseum in Basel, Switzerland for nearly a half-century, it was sold privately by the family of Rudolf Staechelin to Sheikha Al-Mayassa bint Hamad Al-Thani, in February 2015",
+       "Image": "nafea-faa.jpg"
+     },
+     {
+       "Title": "Number 17A",
+       "Artist": " Jackson Pollock",
+       "Cost": "$200 million",
+       "Year": 2016,
+       "Note": "Number 17A is an abstract expressionist painting by Jackson Pollock. It is owned by hedge fund manager Kenneth C. Griffin, who purchased it in September 2015 from David Geffen",
+       "Image": "number-seventeen.jpg"
+     },
+     {
+       "Title": "No. 6 (Violet, Green, and Red)",
+       "Artist": " Mark Rothko",
+       "Cost": "$186 million",
+       "Year": 2014,
+       "Note": "No. 6 (Violet, Green and Red) is a painting by the Latvian-American abstract expressionist artist Mark Rothko. It was painted in 1951. In common with Rothko's other works from this period, No. 6 consists of large expanses of color delineated by uneven, hazy shades.",
+       "Image": "number-six.jpg"
+     },
+     {
+       "Title": "Water Serpents II",
+       "Artist": " Gustav Klimt",
+       "Cost": "$183.3 million",
+       "Year": 2013,
+       "Note": "Water Serpents II, also referred to as Wasserschlangen II, is an oil painting made by Gustav Klimt in 1907. It is the follow-up painting to the earlier painting Water Serpents I . Like the first painting, Water Serpents II deals with the sensuality of women's bodies and same-sex relationships.",
+       "Image": "water-serpents.jpg"
+     },
+     {
+       "Title": "Portraits of Maerten Soolmans and Oopjen Coppit",
+       "Artist": "Rembrandt van Rijn",
+       "Cost": "$180 million",
+       "Year": 2015,
+       "Note": "The pendant portraits of Marten Soolmans and Oopjen Coppit are a pair of full-length wedding portraits by Rembrandt. They were painted on the occasion of the marriage of Marten Soolmans and Oopjen Coppit in 1634.",
+       "Image": "pendant-portraits.jpg"
+     },
+     {
+       "Title": "Les Femmes d’Alger (“Version O”)",
+       "Artist": "Pablo Picasso",
+       "Cost": "$179.3 million",
+       "Year": 2015,
+       "Note": "‘ Les femmes d’Alger, (Version “O”) is the culmination of a herculean project which Picasso started after Matisse ’s death, in homage to his lost friend and competitor, and which over a period of two months and after nearly 100 studies on paper and 14 other paintings led to the creation of this phenomenal canvas in February 1955,’ explains Olivier Camu, Deputy Chairman, Impressionist and Modern Art.",
+       "Image": "les-femmes.jpg"
+     },
+     {
+       "Title": "The Standard Bearer",
+       "Artist": " Rembrandt",
+       "Cost": "$198 million",
+       "Year": 2019,
+       "Note": "The Standard Bearer is a three-quarter-length self-portrait by Rembrandt formerly in the Paris collection of Elie de Rothschild, and purchased by the Rijksmuseum.",
+       "Image": "standard-bearer.jpg"
+     }
+  ]
 }
